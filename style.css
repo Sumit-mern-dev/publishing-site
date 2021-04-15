@@ -17,7 +17,8 @@ h1 {
 
 }
 h2 {
-      font-family: 'Montserrat Alternates', sans-serif;  
+     /* font-family: 'Montserrat Alternates', sans-serif;  */
+     font-family:  'Averia Serif Libre', cursive;
     color:  #66BFBF;
     margin-top: 2px;
     font-weight: normal;
@@ -33,7 +34,7 @@ h3{
 }
 
 p{
-    font-size: 0.75rem;
+    font-size: 0.80rem;
     font-weight: bold;
 }
 
@@ -49,7 +50,7 @@ a:hover {
 }
 
 hr{
-    border: dotted #eaf6f6 7px;
+    border: dotted #93a3bd 10px;
     width: 5%;
     border-bottom: none;
     margin: 100px auto;
